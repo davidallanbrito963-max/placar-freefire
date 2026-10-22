@@ -1,12 +1,10 @@
-// Cole aqui o firebaseConfig do seu projeto Firebase
-// (Console do Firebase > Configurações do projeto > Seus apps > Web).
-// Pode ser o mesmo projeto do Contas GO. Enquanto apiKey estiver vazio,
-// o app funciona só neste aparelho, sem login e sem nuvem.
+// Configuração do Firebase do Placar Free Fire (projeto placar-freefire-8e341).
+// Estes dados são públicos por natureza; a proteção está nas regras do Firestore.
 window.FIREBASE_CONFIG = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyDoUzgMLUVbB2Qm2bl1WcJ8tJJNf7r0HRk",
+  authDomain: "placar-freefire-8e341.firebaseapp.com",
+  projectId: "placar-freefire-8e341",
+  storageBucket: "placar-freefire-8e341.firebasestorage.app",
+  messagingSenderId: "1079606481403",
+  appId: "1:1079606481403:web:e538897d6cd911b0b67b5e"
 };
